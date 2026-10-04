@@ -141,11 +141,3 @@ static synchronized void incrementCount() {
     staticCount++;
 }
 ```
-
-**AtomicInteger:**
-
-```java
-AtomicInteger count = new AtomicInteger(0);
-
-count.incrementAndGet();
-```

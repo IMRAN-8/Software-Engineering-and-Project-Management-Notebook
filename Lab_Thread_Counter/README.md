@@ -1,6 +1,6 @@
 # Lab_Thread_Counter — Static vs Non-Static Counters in Multithreading
 
-**Name:** _your name_  **ID:** _your id_  **Course:** ICT 3107 / ICT 3108
+**Name:** Md. Imran Hosen  **ID:** IT-24060  **Course code:** ICT-3108
 
 ## 1. Files in this directory
 | File | Description |

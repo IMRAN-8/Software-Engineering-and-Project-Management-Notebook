@@ -1,6 +1,9 @@
 
 # HackerRank Contest
 
+Name : Md. Imran Hosen
+Id: IT-24060
+
 ## Screenshot 1
 ![Screenshot 1](./Screenshot%202026-10-31%20125453.png)
 

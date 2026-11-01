@@ -1,9 +1,10 @@
 # Lab Practice #1: JDBC-Servlet Recalling
 
 **Full Name:** MD. IMRAN HOSEN
-**Student ID:** IT_24060
-**Course:** ICT 3108 - Software Engineering Project Management (SEPM), Department of ICT, MBSTU
-**Date:** November 1, 2026
+
+- **Student ID:** IT_24060
+- **Course:** ICT 3108 - Software Engineering Project Management (SEPM), Department of ICT, MBSTU
+- **Date:** November 1, 2026
 
 This repository contains four tasks:
 

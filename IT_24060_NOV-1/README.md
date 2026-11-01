@@ -1,11 +1,9 @@
 # Lab Practice #1: JDBC-Servlet Recalling
 
-**Full Name:** Your Full Name
-**Student ID:** YourStudentID
-**University Email:** your.email@your-university-domain
+**Full Name:** MD. IMRAN HOSEN
+**Student ID:** IT_24060
 **Course:** ICT 3108 - Software Engineering Project Management (SEPM), Department of ICT, MBSTU
 **Date:** November 1, 2026
-**GitHub Repository:** https://github.com/your-username/your-repo
 
 This repository contains four tasks:
 
@@ -31,7 +29,7 @@ IntelliJ IDEA Ultimate is the JetBrains IDE used for all the tasks in this lab. 
 
 ### Screenshots
 ![Task 1 - licence activated](images/task1_licence.png)
-![Task 1 - Help > About](images/task1_about.png)
+
 
 ---
 

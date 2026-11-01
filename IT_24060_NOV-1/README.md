@@ -177,9 +177,6 @@ ID | n | nth_prime | created_at
 ```sql
 SELECT * FROM nickname_name_prime;
 ```
-<!-- Replace with your own screenshot / output -->
-![Task 2 - console output](images/task2_console.png)
-![Task 2 - database table](images/task2_db.png)
 
 ---
 
@@ -209,10 +206,6 @@ Apache Tomcat is the application server that runs the Java servlets. In this tas
 - The IntelliJ Run window shows `Server startup in [xxx] milliseconds`, which confirms Tomcat started successfully.
 - The deployed application opens in the browser at `http://localhost:8080/<ProjectName>_war_exploded/`.
 
-### Screenshots
-![Task 3 - Tomcat run configuration](images/task3_config.png)
-![Task 3 - Deployment tab](images/task3_deployment.png)
-![Task 3 - server running](images/task3_running.png)
 
 ---
 
@@ -321,4 +314,5 @@ The mapping is done with the `@WebServlet("/prime")` annotation above. The equiv
 ---
 
 ## Author
-MD. Imran Hosen - Student ID: IT_24060
+MD. Imran Hosen 
+- Student ID: IT_24060

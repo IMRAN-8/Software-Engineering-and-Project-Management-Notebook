@@ -28,7 +28,7 @@ IntelliJ IDEA Ultimate is the JetBrains IDE used for all the tasks in this lab. 
 4. Verified the setup by opening **Help > About**, which shows *IntelliJ IDEA Ultimate* with the educational licence, and by running a test class.
 
 ### Screenshots
-![Task 1 - licence activated](images/task1_licence.png)
+![Task 1 - licence activated](Screenshot 2026-11-01 104402.png)
 
 
 ---

@@ -135,7 +135,7 @@ if (trig1Correct) totalScore += 3;
 if (trig2Correct) totalScore += 3;
 ```
 
-## Testing (Task 09)
+## Testing 
 
 Run `service/MathServiceTest.java` (its `main` method) to check the functions.
 

@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>YOUR NAME &ndash; MATH WHIZ</title>
+    <link rel="stylesheet" href="${pageContext.request.contextPath}/css/style.css">
+</head>
+<body>
+<div class="wrap">
+    <header class="top">
+        <h1>IMRAN &ndash; MATH WHIZ</h1>
+        <nav>
+            <a href="${pageContext.request.contextPath}/index.jsp">Home</a>
+            <a href="${pageContext.request.contextPath}/leaderboard">Leaderboard</a>
+        </nav>
+    </header>

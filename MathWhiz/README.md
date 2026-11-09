@@ -6,7 +6,7 @@ and the result is saved in a MySQL database. A **Top 10 leaderboard** shows the 
 
 **Student:** Md. Imran Hosen  |  **Student ID:** IT-24060  |  **Email:** imranhosen3315@gmail.com
 
-**GitHub project directory:** [https://github.com/your-username/your-repository/tree/main/MathWhiz](https://github.com/IMRAN-8/Software-Engineering-and-Project-Management-Notebook/tree/main/MathWhiz)
+**GitHub project directory:** https://github.com/IMRAN-8/Software-Engineering-and-Project-Management-Notebook/tree/main/MathWhiz
 
 ## Project Objectives
 

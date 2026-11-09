@@ -176,4 +176,4 @@ modulus answer or text in a number box shows an error message and the game conti
 
 ## Author
 
-Your Full Name – Student ID: YourStudentID
+Md. Imran Hosen – Student ID: IT-24060

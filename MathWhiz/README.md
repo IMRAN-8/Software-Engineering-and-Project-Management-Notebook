@@ -1,4 +1,4 @@
-# IMRAN – MATH WHIZ
+# 1. IMRAN – MATH WHIZ
 
 A web-based maths game built with **Java Servlet, JSP and JDBC**. The player answers four
 questions (prime number, modulus and two trigonometry questions), gets a score out of 10,
@@ -6,9 +6,7 @@ and the result is saved in a MySQL database. A **Top 10 leaderboard** shows the 
 
 **Student:** Md. Imran Hosen  |  **Student ID:** IT-24060  |  **Email:** imranhosen3315@gmail.com
 
-**GitHub project directory:** https://github.com/IMRAN-8/Software-Engineering-and-Project-Management-Notebook/tree/main/MathWhiz
-
-## Project Objectives
+## 2. Project Objectives
 
 - Write reusable Java methods for maths (prime, modulus, sine, cosine, tangent).
 - Use Servlet request/response processing with JSP pages.
@@ -16,7 +14,7 @@ and the result is saved in a MySQL database. A **Top 10 leaderboard** shows the 
 - Sort and show database records (Top 10 leaderboard).
 - Document and submit a project on GitHub.
 
-## Technologies Used
+## 3. Technologies Used
 
 | Technology | Use |
 |------------|-----|
@@ -27,7 +25,7 @@ and the result is saved in a MySQL database. A **Top 10 leaderboard** shows the 
 | Maven | Build and dependencies |
 | IntelliJ IDEA Ultimate | IDE |
 
-## Software Requirements
+## 4. Software Requirements
 
 - JDK 17 or newer
 - Apache Tomcat 10.1.x (Jakarta namespace, **not** Tomcat 9)
@@ -56,7 +54,7 @@ MathWhiz/
 └── README.md
 ```
 
-## Database Configuration
+## 5. Database Configuration
 
 1. Start MySQL and run the SQL file (command line or MySQL Workbench / IntelliJ Database tool):
 
@@ -71,7 +69,7 @@ MathWhiz/
    private static final String PASSWORD = "YOUR_MYSQL_PASSWORD";
    ```
 
-### Database Creation SQL
+## 6. Database Creation SQL
 
 ```sql
 CREATE DATABASE IF NOT EXISTS math_whiz_db;
@@ -92,7 +90,7 @@ Leaderboard query (highest score first, earlier time first when scores are equal
 SELECT * FROM game_scores ORDER BY score DESC, played_at ASC LIMIT 10;
 ```
 
-## Steps to Run the Application
+## 7. Steps to Run the Application
 
 1. Open IntelliJ IDEA and choose **File > Open**, then select the `MathWhiz` folder (the one with `pom.xml`). Wait for Maven to load.
 2. Create the database (see above) and set the password in `ScoreDAO.java`.
@@ -101,7 +99,7 @@ SELECT * FROM game_scores ORDER BY score DESC, played_at ASC LIMIT 10;
 5. Set the **URL** on the **Server** tab to `http://localhost:8080/MathWhiz_war_exploded/` and click **Run**.
 6. The welcome page opens in the browser.
 
-## Game Rules and Scoring
+## 8. Game Rules and Scoring
 
 | Question | Area | Marks | How it works |
 |----------|------|-------|--------------|
@@ -157,7 +155,7 @@ Run `service/MathServiceTest.java` (its `main` method) to check the functions.
 The game page also validates the input: an empty name, a prime answer other than 0/1, a decimal
 modulus answer or text in a number box shows an error message and the game continues.
 
-## Application Screenshots
+## 9. Application Screenshots
 
 ### Welcome Page
 ![Welcome Page](screenshots/home.png)
@@ -173,6 +171,10 @@ modulus answer or text in a number box shows an error message and the game conti
 
 ### Test Output
 ![Test Output](screenshots/tests.png)
+
+## 10. **GitHub project directory:** 
+https://github.com/IMRAN-8/Software-Engineering-and-Project-Management-Notebook/tree/main/MathWhiz
+
 
 ## Author
 

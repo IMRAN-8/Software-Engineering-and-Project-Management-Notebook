@@ -28,8 +28,6 @@ Upon successful completion of this assessment, students should be able to:
 - **CO4:** Explain common software architectural styles and design patterns.
 - **CO5:** Apply fundamental software design principles to simple software problems.
 
-> **Note:** These Course Outcomes are proposed for this assessment. Replace them with the official course outcomes if they have been provided by the department.
-
 ---
 
 ## 2. Assessment Questions
@@ -112,8 +110,6 @@ This assessment is designed using an outcome-based approach:
 4. **CO mapping:** Each question is mapped to the relevant Course Outcomes.
 5. **BNQF consideration:** The assessment addresses knowledge, understanding, and application.
 
-> **Alignment note:** This is a general OBE/BNQF-oriented structure. A specific BNQF level has not been assigned because the official programme-level mapping was not provided.
-
 ---
 
 ## 6. Marks Distribution
@@ -125,17 +121,5 @@ This assessment is designed using an outcome-based approach:
 | Section C | Application | 15 |
 | **Grand Total** |  | **40** |
 
-**Examination Duration: 1 Hour**
-
 ---
 
-## Prepared By
-
-**Md. Imran Hosen**  
-**Student ID:** IT-24060  
-**Course:** Software Engineering Project Management  
-**Course Code:** ICT_3107
-
----
-
-*End of Question Paper*

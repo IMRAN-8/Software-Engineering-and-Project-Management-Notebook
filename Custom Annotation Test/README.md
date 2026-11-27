@@ -4,23 +4,15 @@ A small Java project demonstrating custom annotations and Java Reflection. It im
 
 ## Student Information
 
-  ------------------------------------------------------------------------------------------------
-  Field                               Details
-  ----------------------------------- ------------------------------------------------------------
-  Name                                Md. Imran Hosen
-
-  Student ID                          IT-24060
-
-  University                          Mawlana Bhashani Science and Technology University (MBSTU)
-
-  Department                          Information and Communication Technology (ICT)
-
-  Course Title                        Software Engineering Project Management
-
-  Course Code                         ICT 3107
-
-  Assignment                          Build "CampusBoot" with Custom Annotations
-  ------------------------------------------------------------------------------------------------
+| Field | Details |
+|---|---|
+| Name | Md. Imran Hosen |
+| Student ID | IT-24060 |
+| University | Mawlana Bhashani Science and Technology University (MBSTU) |
+| Department | Information and Communication Technology (ICT) |
+| Course Title | Software Engineering Project Management |
+| Course Code | ICT 3107 |
+| Assignment | Build "CampusBoot" with Custom Annotations |
 
 ------------------------------------------------------------------------
 

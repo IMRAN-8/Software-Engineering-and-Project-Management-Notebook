@@ -14,7 +14,7 @@ A small Java project demonstrating custom annotations and Java Reflection. It im
 | Course Code | ICT 3107 |
 | Assignment | Build "CampusBoot" with Custom Annotations |
 
-------------------------------------------------------------------------
+
 
 ## 1. Project Overview
 

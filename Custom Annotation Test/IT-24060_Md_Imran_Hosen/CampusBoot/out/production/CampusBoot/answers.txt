@@ -1,0 +1,5 @@
+1. If @Retention(RetentionPolicy.RUNTIME) is forgotten, the annotation uses the default CLASS retention. It is stored in the class file but is not available to normal runtime reflection. Therefore, the framework cannot find it using reflection while the program runs.
+
+2. @Component is similar to Spring's @Component. @Value is similar to Spring's @Value. @Range can be compared with validation annotations such as @Min and @Max. @Route is similar in purpose to Spring MVC's @RequestMapping or @GetMapping. Real Spring also provides a full application context, component scanning, dependency injection, request handling, and many other services.
+
+3. setAccessible(true) allows reflection to access private fields or methods that normal Java access rules would hide. This is powerful because a framework can inject private fields or call private methods. It is risky because it can bypass encapsulation and access controls, making code harder to secure and maintain.
